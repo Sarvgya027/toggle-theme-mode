@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* styles.css */
+.content.light {
+  background-color: white;
+  color: black;
+}
+
+.content.dark {
+  background-color: black;
+  color: white;
+}
